@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser\\Guesser.csproj": {}
+    "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser.csproj": {}
   },
   "projects": {
-    "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser\\Guesser.csproj": {
+    "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser\\Guesser.csproj",
+        "projectUniqueName": "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser.csproj",
         "projectName": "Guesser",
-        "projectPath": "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser\\Guesser.csproj",
+        "projectPath": "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser.csproj",
         "packagesPath": "C:\\Users\\Damian\\.nuget\\packages\\",
-        "outputPath": "M:\\VS Projects\\GuesserGame\\Guesser\\Guesser\\obj\\",
+        "outputPath": "M:\\VS Projects\\GuesserGame\\Guesser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "M:\\Visual Studio Shared\\NuGetPackages"
