@@ -1,0 +1,15 @@
+M:\VS Projects\GuesserGame\Guesser\bin\Debug\net6.0\Guesser.exe
+M:\VS Projects\GuesserGame\Guesser\bin\Debug\net6.0\Guesser.deps.json
+M:\VS Projects\GuesserGame\Guesser\bin\Debug\net6.0\Guesser.runtimeconfig.json
+M:\VS Projects\GuesserGame\Guesser\bin\Debug\net6.0\Guesser.dll
+M:\VS Projects\GuesserGame\Guesser\bin\Debug\net6.0\Guesser.pdb
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\Guesser.csproj.AssemblyReference.cache
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\Guesser.GeneratedMSBuildEditorConfig.editorconfig
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\Guesser.AssemblyInfoInputs.cache
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\Guesser.AssemblyInfo.cs
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\Guesser.csproj.CoreCompileInputs.cache
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\Guesser.dll
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\refint\Guesser.dll
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\Guesser.pdb
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\Guesser.genruntimeconfig.cache
+M:\VS Projects\GuesserGame\Guesser\obj\Debug\net6.0\ref\Guesser.dll

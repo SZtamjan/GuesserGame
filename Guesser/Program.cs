@@ -6,7 +6,22 @@ namespace MatiApps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Random random = new Random();
+            int num = random.Next(1,101);
+
+            Console.WriteLine(num);
+
+            int usr;
+
+            do
+            {
+                Console.ReadLine();
+
+
+
+            }while();
+
+
         }
     }
 }
