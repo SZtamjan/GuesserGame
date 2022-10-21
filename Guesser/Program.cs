@@ -7,20 +7,22 @@ namespace MatiApps
         static void Main(string[] args)
         {
             Random random = new Random();
-            int num = random.Next(1,101);
-
-            Console.WriteLine(num);
-
+            int a = random.Next(1, 101);
             int usr;
-
             do
             {
-                Console.ReadLine();
-
-
-
-            }while();
-
+                Console.WriteLine("Wpisz liczbę");
+                usr = Convert.ToInt32(Console.ReadLine());
+                if (usr > a)
+                {
+                    Console.WriteLine("Liczba jest za duża");
+                }
+                else if (usr < a)
+                {
+                    Console.WriteLine("Liczba jest za mała");
+                }
+            } while (a != usr);
+            Console.WriteLine("Brawo, zgadłeś!");
 
         }
     }
